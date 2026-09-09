@@ -93,12 +93,17 @@ How does this `git status` differ from the one in **1.2**?
 In one or two sentences each, what does each command do?
 
 - `git init`
+#Initulize working branch
 - `git status`
+#Shows what files are staged to commit
 - `git add`
+Moves files into a staging area to commit
 - `git commit`
+#Snapshot of the current state of files that can now be merged or rebased (if no conflict exists)
 - `git log`
+#Shows the time line of changes of tree and their hash code
 - `git diff`
-
+#Shows the changes to files
 ### 1.7 Repository link
 
 ### 1.8 Comparing approaches
